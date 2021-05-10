@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshaybhat5
 - 👀 I’m interested in Data mining, Machine Learning, AI, Data science.
 - 🌱 I’m currently learning AI, Big data mining.
-- ✌️ I'm a master's student at James Cook University, Australia in Data Science.
+- ✌️ I'm a master's Data Science student at James Cook University, Australia.
 - 📫 How to reach me Email- akshay.bhat@my.jcu.edu.au
 
 <!---
