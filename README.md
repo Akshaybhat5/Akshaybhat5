@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Akshaybhat5
-- 👀 I’m interested in Data mining, Machine Learning, AI, Data science.
-- 🌱 I’m currently learning AI, Big data mining.
+- 👋 Hi, I’m @Akshay Bhat
 - ✌️ I'm a Master's Data Science student at James Cook University, Australia.
+- 👀 I’m interested in Machine Learning,AI,Data mining.
+- 🌱 I’m currently working on CNN,RNN,ANN, and Big data mining.
+- 👤 Ping me on @akshay.bhat@my.jcu.edu.au
+- 
 
 <!---
 Akshaybhat5/Akshaybhat5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
