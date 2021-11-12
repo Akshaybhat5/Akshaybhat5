@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay Bhat
 - ✌️ I'm a Master's Data Science student at James Cook University, Australia.
 - 👀 I’m interested in Machine Learning,Deep learning,AI, and Data mining.
-- 🌱 I’m currently working on CNN,RNN,ANN, and Big data mining.
+- 🌱 I’m currently working on Convolutional Neural Networks, Recurrent Neural Networks, Artifical Neural Networks, and Big data mining.
 - 👤 Ping me on @akshay.bhat@my.jcu.edu.au
 
 
