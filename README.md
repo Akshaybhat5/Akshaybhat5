@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay Bhat
-- 👀 I’m interested in Machine Learning,Deep learning,AI, and Data mining.
-- 🌱 I’m currently working on Convolutional Neural Networks, Recurrent Neural Networks, Artifical Neural Networks, and Big data mining.
-- 👤 Ping me on @akshay.bhat@my.jcu.edu.au
+- 👀 I’m interested in Machine Learning, Deep learning, AI, and Data mining.
+- 🌱 I’m currently working on LSTM and Recurrent Neural Networks.
+- 👤 Ping me on @akshay05bhat@gmail.com
 
 
 <!---
