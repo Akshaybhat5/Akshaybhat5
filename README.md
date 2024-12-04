@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay Bhat
 - 👀 I’m interested in Machine Learning, Deep learning, AI, and Data mining.
 - 🌱 I’m currently working on LSTM and Recurrent Neural Networks.
-- 👤 Ping me on @akshay05bhat@gmail.com
+
 
 
 <!---
